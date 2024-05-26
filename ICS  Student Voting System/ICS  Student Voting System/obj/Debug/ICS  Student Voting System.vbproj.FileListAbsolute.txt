@@ -112,3 +112,61 @@ E:\OTHER FILE\Desktop\ICS  Student Voting System\ICS  Student Voting System\obj\
 E:\OTHER FILE\Desktop\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.exe
 E:\OTHER FILE\Desktop\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.xml
 E:\OTHER FILE\Desktop\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.pdb
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\ICS  Student Voting System.exe.config
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\ICS  Student Voting System.exe
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\ICS  Student Voting System.pdb
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\ICS  Student Voting System.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\Google.Protobuf.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\Guna.UI2.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\MySql.Data.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Buffers.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.IO.Pipelines.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Memory.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Numerics.Vectors.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\ZstdSharp.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\Google.Protobuf.pdb
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\Google.Protobuf.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\MySql.Data.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Buffers.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.IO.Pipelines.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Memory.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Numerics.Vectors.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.vbproj.AssemblyReference.cache
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\Interop.WMPLib.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.vbproj.ResolveComReference.cache
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.Form2.resources
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.Form_ManageCandidate.resources
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.form_manageUsers.resources
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.Form1.resources
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.form_ManageStudent.resources
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.Resources.resources
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.Form_StudentMain.resources
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.Form_VoteCandidate.resources
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.Try_Only.resources
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.vbproj.GenerateResource.cache
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.vbproj.CoreCompileInputs.cache
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Stu.5383F685.Up2Date
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.exe
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.xml
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.pdb
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\BCrypt.Net-Next.dll
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\BCrypt.Net-Next.xml
