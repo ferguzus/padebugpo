@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|c:\\ferg\\empty_folder\\ics_votingsystem\\ics  student voting system\\ics  student voting system\\admin\\form_manageusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ics  student voting system\\admin\\form_manageusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\form_ManageStudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\form_ManageStudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ics  student voting system\\databaseconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ics  student voting system\\databaseconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_StudentMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Student\\Form_StudentMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_StudentMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Student\\Form_StudentMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_VoteCandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Student\\Form_VoteCandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_VoteCandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Student\\Form_VoteCandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|c:\\ferg\\empty_folder\\ics_votingsystem\\ics  student voting system\\ics  student voting system\\form_managestudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ics  student voting system\\form_managestudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ics  student voting system\\form_managestudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ics  student voting system\\form_managestudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ics  student voting system\\form_managestudent.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ics  student voting system\\form_managestudent.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Try_Only.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Student\\Try_Only.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_VoteCandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Student\\Form_VoteCandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_manageUsers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Admin\\form_manageUsers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
@@ -47,32 +35,36 @@
       "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Admin\\Form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\Form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Admin\\Form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_manageUsers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Admin\\form_manageUsers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ics  student voting system\\admin\\form_managecandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ics  student voting system\\admin\\form_managecandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ics  student voting system\\admin\\form_adminmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ics  student voting system\\admin\\form_adminmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_StudentMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Student\\Form_StudentMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_VoteCandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Student\\Form_VoteCandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ics  student voting system\\databaseconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ics  student voting system\\databaseconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ics  student voting system\\admin\\form_manageusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ics  student voting system\\admin\\form_manageusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\Form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Admin\\Form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ics  student voting system\\admin\\form_managecandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ics  student voting system\\admin\\form_managecandidate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_adminMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Admin\\form_adminMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Try_Only.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|solutionrelative:ICS  Student Voting System\\Student\\Try_Only.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3530FFF3-2143-4D9C-A8D4-276B981FE246}|ICS  Student Voting System\\ICS  Student Voting System.vbproj|C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Try_Only.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -86,35 +78,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form_StudentMain.vb",
-              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_StudentMain.vb",
-              "RelativeDocumentMoniker": "ICS  Student Voting System\\Student\\Form_StudentMain.vb",
-              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_StudentMain.vb",
-              "RelativeToolTip": "ICS  Student Voting System\\Student\\Form_StudentMain.vb",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T04:52:10.859Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Form_StudentMain.vb [Design]",
               "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_StudentMain.vb",
               "RelativeDocumentMoniker": "ICS  Student Voting System\\Student\\Form_StudentMain.vb",
-              "ToolTip": "E:\\OTHER FILE\\Desktop\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_StudentMain.vb [Design]",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_StudentMain.vb [Design]",
+              "RelativeToolTip": "ICS  Student Voting System\\Student\\Form_StudentMain.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-09T03:58:22.851Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Form_VoteCandidate.vb",
               "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_VoteCandidate.vb",
               "RelativeDocumentMoniker": "ICS  Student Voting System\\Student\\Form_VoteCandidate.vb",
@@ -127,108 +107,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Form_VoteCandidate.vb [Design]",
               "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_VoteCandidate.vb",
               "RelativeDocumentMoniker": "ICS  Student Voting System\\Student\\Form_VoteCandidate.vb",
-              "ToolTip": "E:\\OTHER FILE\\Desktop\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_VoteCandidate.vb [Design]",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Form_VoteCandidate.vb [Design]",
+              "RelativeToolTip": "ICS  Student Voting System\\Student\\Form_VoteCandidate.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-09T09:39:14.268Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
               "Title": "Try_Only.vb [Design]",
               "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Try_Only.vb",
               "RelativeDocumentMoniker": "ICS  Student Voting System\\Student\\Try_Only.vb",
-              "ToolTip": "E:\\OTHER FILE\\Desktop\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Try_Only.vb [Design]",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Try_Only.vb [Design]",
+              "RelativeToolTip": "ICS  Student Voting System\\Student\\Try_Only.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-10T03:08:17.917Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "form_manageUsers.vb",
-              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_manageUsers.vb",
-              "RelativeDocumentMoniker": "ICS  Student Voting System\\Admin\\form_manageUsers.vb",
-              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_manageUsers.vb",
-              "RelativeToolTip": "ICS  Student Voting System\\Admin\\form_manageUsers.vb",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-02-27T13:01:19.915Z",
-              "EditorCaption": ""
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DatabaseConnection.vb",
-              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\DatabaseConnection.vb",
-              "RelativeDocumentMoniker": "ICS  Student Voting System\\DatabaseConnection.vb",
-              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\DatabaseConnection.vb",
-              "RelativeToolTip": "ICS  Student Voting System\\DatabaseConnection.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Title": "form_ManageStudent.Designer.vb",
+              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\form_ManageStudent.Designer.vb",
+              "RelativeDocumentMoniker": "ICS  Student Voting System\\form_ManageStudent.Designer.vb",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\form_ManageStudent.Designer.vb",
+              "RelativeToolTip": "ICS  Student Voting System\\form_ManageStudent.Designer.vb",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAGwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-02-27T13:23:23.937Z"
+              "WhenOpened": "2024-05-26T05:24:23.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "form_ManageStudent.vb",
-              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\form_ManageStudent.vb",
-              "RelativeDocumentMoniker": "ICS  Student Voting System\\form_ManageStudent.vb",
-              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\form_ManageStudent.vb",
-              "RelativeToolTip": "ICS  Student Voting System\\form_ManageStudent.vb",
-              "ViewState": "AQIAABkAAAAAAAAAAADwvyoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-02T12:56:13.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "form_ManageStudent.vb [Design]",
               "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\form_ManageStudent.vb",
               "RelativeDocumentMoniker": "ICS  Student Voting System\\form_ManageStudent.vb",
-              "ToolTip": "E:\\OTHER FILE\\Desktop\\ICS  Student Voting System\\ICS  Student Voting System\\form_ManageStudent.vb [Design]",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\form_ManageStudent.vb [Design]*",
+              "RelativeToolTip": "ICS  Student Voting System\\form_ManageStudent.vb [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-02T03:42:58.44Z"
+              "WhenOpened": "2024-03-02T03:42:58.44Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Form1.vb",
-              "RelativeDocumentMoniker": "ICS  Student Voting System\\Form1.vb",
-              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Form1.vb",
-              "RelativeToolTip": "ICS  Student Voting System\\Form1.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAIAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "form_ManageStudent.vb",
+              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\form_ManageStudent.vb",
+              "RelativeDocumentMoniker": "ICS  Student Voting System\\form_ManageStudent.vb",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\form_ManageStudent.vb*",
+              "RelativeToolTip": "ICS  Student Voting System\\form_ManageStudent.vb*",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAwI8AAACwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-02-27T03:22:51.63Z"
+              "WhenOpened": "2024-03-02T12:56:13.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "form_manageUsers.vb [Design]",
+              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_manageUsers.vb",
+              "RelativeDocumentMoniker": "ICS  Student Voting System\\Admin\\form_manageUsers.vb",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_manageUsers.vb [Design]",
+              "RelativeToolTip": "ICS  Student Voting System\\Admin\\form_manageUsers.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-27T12:37:09.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Form1.vb",
               "RelativeDocumentMoniker": "ICS  Student Voting System\\Form1.vb",
-              "ToolTip": "E:\\OTHER FILE\\Desktop\\ICS  Student Voting System\\ICS  Student Voting System\\Form1.vb [Design]",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Form1.vb [Design]",
+              "RelativeToolTip": "ICS  Student Voting System\\Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-02-25T15:14:48.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Form2.vb [Design]",
               "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\Form2.vb",
               "RelativeDocumentMoniker": "ICS  Student Voting System\\Admin\\Form2.vb",
-              "ToolTip": "E:\\OTHER FILE\\Desktop\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\Form2.vb [Design]",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\Form2.vb [Design]",
+              "RelativeToolTip": "ICS  Student Voting System\\Admin\\Form2.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-04T15:54:56.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "Form_ManageCandidate.vb [Design]",
+              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\Form_ManageCandidate.vb",
+              "RelativeDocumentMoniker": "ICS  Student Voting System\\Admin\\Form_ManageCandidate.vb",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\Form_ManageCandidate.vb [Design]",
+              "RelativeToolTip": "ICS  Student Voting System\\Admin\\Form_ManageCandidate.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-09T10:21:02.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Form1.vb",
+              "RelativeDocumentMoniker": "ICS  Student Voting System\\Form1.vb",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Form1.vb",
+              "RelativeToolTip": "ICS  Student Voting System\\Form1.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA2wAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-27T03:22:51.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseConnection.vb",
+              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\DatabaseConnection.vb",
+              "RelativeDocumentMoniker": "ICS  Student Voting System\\DatabaseConnection.vb",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\DatabaseConnection.vb",
+              "RelativeToolTip": "ICS  Student Voting System\\DatabaseConnection.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-27T13:23:23.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "form_manageUsers.vb",
+              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_manageUsers.vb",
+              "RelativeDocumentMoniker": "ICS  Student Voting System\\Admin\\form_manageUsers.vb",
+              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_manageUsers.vb",
+              "RelativeToolTip": "ICS  Student Voting System\\Admin\\form_manageUsers.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-27T13:01:19.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Form2.vb",
               "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\Form2.vb",
               "RelativeDocumentMoniker": "ICS  Student Voting System\\Admin\\Form2.vb",
@@ -237,36 +259,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-04T15:57:25.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "form_manageUsers.vb [Design]",
-              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_manageUsers.vb",
-              "RelativeDocumentMoniker": "ICS  Student Voting System\\Admin\\form_manageUsers.vb",
-              "ToolTip": "E:\\OTHER FILE\\Desktop\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_manageUsers.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-02-27T12:37:09.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Form_ManageCandidate.vb [Design]",
-              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\Form_ManageCandidate.vb",
-              "RelativeDocumentMoniker": "ICS  Student Voting System\\Admin\\Form_ManageCandidate.vb",
-              "ToolTip": "E:\\OTHER FILE\\Desktop\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\Form_ManageCandidate.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T10:21:02.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "form_adminMain.vb [Design]",
-              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_adminMain.vb",
-              "RelativeDocumentMoniker": "ICS  Student Voting System\\Admin\\form_adminMain.vb",
-              "ToolTip": "E:\\OTHER FILE\\Desktop\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_adminMain.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-02-25T16:10:25.606Z"
             },
             {
               "$type": "Document",
@@ -283,18 +275,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "form_adminMain.vb",
-              "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_adminMain.vb",
-              "RelativeDocumentMoniker": "ICS  Student Voting System\\Admin\\form_adminMain.vb",
-              "ToolTip": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Admin\\form_adminMain.vb",
-              "RelativeToolTip": "ICS  Student Voting System\\Admin\\form_adminMain.vb",
-              "ViewState": "AQIAAAEAAAAAAAAAAAA1wAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-02-29T10:34:01.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "Try_Only.vb",
               "DocumentMoniker": "C:\\Ferg\\Empty_Folder\\ICS_VotingSystem\\ICS  Student Voting System\\ICS  Student Voting System\\Student\\Try_Only.vb",
               "RelativeDocumentMoniker": "ICS  Student Voting System\\Student\\Try_Only.vb",
@@ -302,7 +282,8 @@
               "RelativeToolTip": "ICS  Student Voting System\\Student\\Try_Only.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-10T03:18:04.196Z"
+              "WhenOpened": "2024-03-10T03:18:04.196Z",
+              "EditorCaption": ""
             }
           ]
         }

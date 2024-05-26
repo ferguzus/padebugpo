@@ -23,60 +23,96 @@ Partial Class Form_ManageCandidate
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form_ManageCandidate))
-        Me.Guna2HtmlLabel4 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Guna2HtmlLabel3 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Guna2HtmlLabel2 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.txt_name = New Guna.UI2.WinForms.Guna2TextBox()
-        Me.Guna2ShadowPanel2 = New Guna.UI2.WinForms.Guna2ShadowPanel()
-        Me.Guna2HtmlLabel1 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.cmb_course = New Guna.UI2.WinForms.Guna2ComboBox()
-        Me.Guna2ShadowPanel5 = New Guna.UI2.WinForms.Guna2ShadowPanel()
-        Me.cmb_year = New Guna.UI2.WinForms.Guna2ComboBox()
-        Me.Guna2ShadowPanel3 = New Guna.UI2.WinForms.Guna2ShadowPanel()
-        Me.cmb_position = New Guna.UI2.WinForms.Guna2ComboBox()
-        Me.Guna2ShadowPanel4 = New Guna.UI2.WinForms.Guna2ShadowPanel()
-        Me.btn_register = New Guna.UI2.WinForms.Guna2Button()
-        Me.Guna2ShadowPanel6 = New Guna.UI2.WinForms.Guna2ShadowPanel()
-        Me.pic_candidateImg = New Guna.UI2.WinForms.Guna2PictureBox()
-        Me.Guna2ShadowPanel1 = New Guna.UI2.WinForms.Guna2ShadowPanel()
-        Me.pic_close = New Guna.UI2.WinForms.Guna2PictureBox()
         Me.Guna2HtmlLabel5 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        CType(Me.pic_candidateImg, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.pic_close = New Guna.UI2.WinForms.Guna2PictureBox()
+        Me.Guna2HtmlLabel2 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Me.Guna2HtmlLabel3 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Me.Guna2HtmlLabel4 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Me.Guna2ShadowPanel2 = New Guna.UI2.WinForms.Guna2ShadowPanel()
+        Me.txt_name = New Guna.UI2.WinForms.Guna2TextBox()
+        Me.Guna2HtmlLabel1 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Me.Guna2ShadowPanel5 = New Guna.UI2.WinForms.Guna2ShadowPanel()
+        Me.cmb_course = New Guna.UI2.WinForms.Guna2ComboBox()
+        Me.Guna2ShadowPanel3 = New Guna.UI2.WinForms.Guna2ShadowPanel()
+        Me.cmb_year = New Guna.UI2.WinForms.Guna2ComboBox()
+        Me.Guna2ShadowPanel4 = New Guna.UI2.WinForms.Guna2ShadowPanel()
+        Me.cmb_position = New Guna.UI2.WinForms.Guna2ComboBox()
+        Me.Guna2ShadowPanel6 = New Guna.UI2.WinForms.Guna2ShadowPanel()
+        Me.btn_register = New Guna.UI2.WinForms.Guna2Button()
+        Me.Guna2ShadowPanel1 = New Guna.UI2.WinForms.Guna2ShadowPanel()
+        Me.pic_candidateImg = New Guna.UI2.WinForms.Guna2PictureBox()
         CType(Me.pic_close, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.pic_candidateImg, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
-        'Guna2HtmlLabel4
+        'Guna2HtmlLabel5
         '
-        Me.Guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel4.Font = New System.Drawing.Font("Poppins SemiBold", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Guna2HtmlLabel4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(125, Byte), Integer), CType(CType(124, Byte), Integer), CType(CType(124, Byte), Integer))
-        Me.Guna2HtmlLabel4.Location = New System.Drawing.Point(390, 309)
-        Me.Guna2HtmlLabel4.Name = "Guna2HtmlLabel4"
-        Me.Guna2HtmlLabel4.Size = New System.Drawing.Size(56, 25)
-        Me.Guna2HtmlLabel4.TabIndex = 67
-        Me.Guna2HtmlLabel4.Text = "Position"
+        Me.Guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2HtmlLabel5.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel5.Location = New System.Drawing.Point(12, 12)
+        Me.Guna2HtmlLabel5.Name = "Guna2HtmlLabel5"
+        Me.Guna2HtmlLabel5.Size = New System.Drawing.Size(142, 18)
+        Me.Guna2HtmlLabel5.TabIndex = 88
+        Me.Guna2HtmlLabel5.Text = "Manage Candidates"
         '
-        'Guna2HtmlLabel3
+        'pic_close
         '
-        Me.Guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel3.Font = New System.Drawing.Font("Poppins SemiBold", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Guna2HtmlLabel3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(125, Byte), Integer), CType(CType(124, Byte), Integer), CType(CType(124, Byte), Integer))
-        Me.Guna2HtmlLabel3.Location = New System.Drawing.Point(390, 259)
-        Me.Guna2HtmlLabel3.Name = "Guna2HtmlLabel3"
-        Me.Guna2HtmlLabel3.Size = New System.Drawing.Size(33, 25)
-        Me.Guna2HtmlLabel3.TabIndex = 66
-        Me.Guna2HtmlLabel3.Text = "Year"
+        Me.pic_close.BackColor = System.Drawing.Color.Transparent
+        Me.pic_close.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
+        Me.pic_close.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.pic_close.FillColor = System.Drawing.Color.Transparent
+        Me.pic_close.Image = CType(resources.GetObject("pic_close.Image"), System.Drawing.Image)
+        Me.pic_close.ImageRotate = 0!
+        Me.pic_close.Location = New System.Drawing.Point(874, 13)
+        Me.pic_close.Name = "pic_close"
+        Me.pic_close.Size = New System.Drawing.Size(23, 24)
+        Me.pic_close.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.pic_close.TabIndex = 89
+        Me.pic_close.TabStop = False
+        Me.pic_close.UseTransparentBackground = True
         '
         'Guna2HtmlLabel2
         '
         Me.Guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel2.Font = New System.Drawing.Font("Poppins SemiBold", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2HtmlLabel2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(125, Byte), Integer), CType(CType(124, Byte), Integer), CType(CType(124, Byte), Integer))
         Me.Guna2HtmlLabel2.Location = New System.Drawing.Point(390, 209)
         Me.Guna2HtmlLabel2.Name = "Guna2HtmlLabel2"
-        Me.Guna2HtmlLabel2.Size = New System.Drawing.Size(50, 25)
+        Me.Guna2HtmlLabel2.Size = New System.Drawing.Size(52, 18)
         Me.Guna2HtmlLabel2.TabIndex = 65
         Me.Guna2HtmlLabel2.Text = "Course"
+        '
+        'Guna2HtmlLabel3
+        '
+        Me.Guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2HtmlLabel3.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(125, Byte), Integer), CType(CType(124, Byte), Integer), CType(CType(124, Byte), Integer))
+        Me.Guna2HtmlLabel3.Location = New System.Drawing.Point(390, 259)
+        Me.Guna2HtmlLabel3.Name = "Guna2HtmlLabel3"
+        Me.Guna2HtmlLabel3.Size = New System.Drawing.Size(36, 18)
+        Me.Guna2HtmlLabel3.TabIndex = 66
+        Me.Guna2HtmlLabel3.Text = "Year"
+        '
+        'Guna2HtmlLabel4
+        '
+        Me.Guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2HtmlLabel4.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(125, Byte), Integer), CType(CType(124, Byte), Integer), CType(CType(124, Byte), Integer))
+        Me.Guna2HtmlLabel4.Location = New System.Drawing.Point(390, 309)
+        Me.Guna2HtmlLabel4.Name = "Guna2HtmlLabel4"
+        Me.Guna2HtmlLabel4.Size = New System.Drawing.Size(59, 18)
+        Me.Guna2HtmlLabel4.TabIndex = 67
+        Me.Guna2HtmlLabel4.Text = "Position"
+        '
+        'Guna2ShadowPanel2
+        '
+        Me.Guna2ShadowPanel2.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2ShadowPanel2.FillColor = System.Drawing.Color.Transparent
+        Me.Guna2ShadowPanel2.Location = New System.Drawing.Point(470, 164)
+        Me.Guna2ShadowPanel2.Name = "Guna2ShadowPanel2"
+        Me.Guna2ShadowPanel2.ShadowColor = System.Drawing.Color.Black
+        Me.Guna2ShadowPanel2.Size = New System.Drawing.Size(282, 25)
+        Me.Guna2ShadowPanel2.TabIndex = 75
         '
         'txt_name
         '
@@ -104,26 +140,26 @@ Partial Class Form_ManageCandidate
         Me.txt_name.TabIndex = 74
         Me.txt_name.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Guna2ShadowPanel2
-        '
-        Me.Guna2ShadowPanel2.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2ShadowPanel2.FillColor = System.Drawing.Color.Transparent
-        Me.Guna2ShadowPanel2.Location = New System.Drawing.Point(470, 164)
-        Me.Guna2ShadowPanel2.Name = "Guna2ShadowPanel2"
-        Me.Guna2ShadowPanel2.ShadowColor = System.Drawing.Color.Black
-        Me.Guna2ShadowPanel2.Size = New System.Drawing.Size(282, 25)
-        Me.Guna2ShadowPanel2.TabIndex = 75
-        '
         'Guna2HtmlLabel1
         '
         Me.Guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel1.Font = New System.Drawing.Font("Poppins SemiBold", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2HtmlLabel1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(125, Byte), Integer), CType(CType(124, Byte), Integer), CType(CType(124, Byte), Integer))
         Me.Guna2HtmlLabel1.Location = New System.Drawing.Point(390, 159)
         Me.Guna2HtmlLabel1.Name = "Guna2HtmlLabel1"
-        Me.Guna2HtmlLabel1.Size = New System.Drawing.Size(44, 25)
+        Me.Guna2HtmlLabel1.Size = New System.Drawing.Size(44, 18)
         Me.Guna2HtmlLabel1.TabIndex = 76
         Me.Guna2HtmlLabel1.Text = "Name"
+        '
+        'Guna2ShadowPanel5
+        '
+        Me.Guna2ShadowPanel5.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2ShadowPanel5.FillColor = System.Drawing.Color.Transparent
+        Me.Guna2ShadowPanel5.Location = New System.Drawing.Point(470, 214)
+        Me.Guna2ShadowPanel5.Name = "Guna2ShadowPanel5"
+        Me.Guna2ShadowPanel5.ShadowColor = System.Drawing.Color.Black
+        Me.Guna2ShadowPanel5.Size = New System.Drawing.Size(282, 25)
+        Me.Guna2ShadowPanel5.TabIndex = 78
         '
         'cmb_course
         '
@@ -147,15 +183,15 @@ Partial Class Form_ManageCandidate
         Me.cmb_course.TabIndex = 77
         Me.cmb_course.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Guna2ShadowPanel5
+        'Guna2ShadowPanel3
         '
-        Me.Guna2ShadowPanel5.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2ShadowPanel5.FillColor = System.Drawing.Color.Transparent
-        Me.Guna2ShadowPanel5.Location = New System.Drawing.Point(470, 214)
-        Me.Guna2ShadowPanel5.Name = "Guna2ShadowPanel5"
-        Me.Guna2ShadowPanel5.ShadowColor = System.Drawing.Color.Black
-        Me.Guna2ShadowPanel5.Size = New System.Drawing.Size(282, 25)
-        Me.Guna2ShadowPanel5.TabIndex = 78
+        Me.Guna2ShadowPanel3.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2ShadowPanel3.FillColor = System.Drawing.Color.Transparent
+        Me.Guna2ShadowPanel3.Location = New System.Drawing.Point(470, 264)
+        Me.Guna2ShadowPanel3.Name = "Guna2ShadowPanel3"
+        Me.Guna2ShadowPanel3.ShadowColor = System.Drawing.Color.Black
+        Me.Guna2ShadowPanel3.Size = New System.Drawing.Size(282, 25)
+        Me.Guna2ShadowPanel3.TabIndex = 80
         '
         'cmb_year
         '
@@ -179,15 +215,15 @@ Partial Class Form_ManageCandidate
         Me.cmb_year.TabIndex = 79
         Me.cmb_year.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Guna2ShadowPanel3
+        'Guna2ShadowPanel4
         '
-        Me.Guna2ShadowPanel3.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2ShadowPanel3.FillColor = System.Drawing.Color.Transparent
-        Me.Guna2ShadowPanel3.Location = New System.Drawing.Point(470, 264)
-        Me.Guna2ShadowPanel3.Name = "Guna2ShadowPanel3"
-        Me.Guna2ShadowPanel3.ShadowColor = System.Drawing.Color.Black
-        Me.Guna2ShadowPanel3.Size = New System.Drawing.Size(282, 25)
-        Me.Guna2ShadowPanel3.TabIndex = 80
+        Me.Guna2ShadowPanel4.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2ShadowPanel4.FillColor = System.Drawing.Color.Transparent
+        Me.Guna2ShadowPanel4.Location = New System.Drawing.Point(470, 314)
+        Me.Guna2ShadowPanel4.Name = "Guna2ShadowPanel4"
+        Me.Guna2ShadowPanel4.ShadowColor = System.Drawing.Color.Black
+        Me.Guna2ShadowPanel4.Size = New System.Drawing.Size(282, 25)
+        Me.Guna2ShadowPanel4.TabIndex = 82
         '
         'cmb_position
         '
@@ -211,15 +247,15 @@ Partial Class Form_ManageCandidate
         Me.cmb_position.TabIndex = 81
         Me.cmb_position.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Guna2ShadowPanel4
+        'Guna2ShadowPanel6
         '
-        Me.Guna2ShadowPanel4.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2ShadowPanel4.FillColor = System.Drawing.Color.Transparent
-        Me.Guna2ShadowPanel4.Location = New System.Drawing.Point(470, 314)
-        Me.Guna2ShadowPanel4.Name = "Guna2ShadowPanel4"
-        Me.Guna2ShadowPanel4.ShadowColor = System.Drawing.Color.Black
-        Me.Guna2ShadowPanel4.Size = New System.Drawing.Size(282, 25)
-        Me.Guna2ShadowPanel4.TabIndex = 82
+        Me.Guna2ShadowPanel6.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2ShadowPanel6.FillColor = System.Drawing.Color.Transparent
+        Me.Guna2ShadowPanel6.Location = New System.Drawing.Point(470, 369)
+        Me.Guna2ShadowPanel6.Name = "Guna2ShadowPanel6"
+        Me.Guna2ShadowPanel6.ShadowColor = System.Drawing.Color.Black
+        Me.Guna2ShadowPanel6.Size = New System.Drawing.Size(282, 25)
+        Me.Guna2ShadowPanel6.TabIndex = 84
         '
         'btn_register
         '
@@ -239,25 +275,6 @@ Partial Class Form_ManageCandidate
         Me.btn_register.TabIndex = 83
         Me.btn_register.Text = "Register"
         '
-        'Guna2ShadowPanel6
-        '
-        Me.Guna2ShadowPanel6.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2ShadowPanel6.FillColor = System.Drawing.Color.Transparent
-        Me.Guna2ShadowPanel6.Location = New System.Drawing.Point(470, 369)
-        Me.Guna2ShadowPanel6.Name = "Guna2ShadowPanel6"
-        Me.Guna2ShadowPanel6.ShadowColor = System.Drawing.Color.Black
-        Me.Guna2ShadowPanel6.Size = New System.Drawing.Size(282, 25)
-        Me.Guna2ShadowPanel6.TabIndex = 84
-        '
-        'pic_candidateImg
-        '
-        Me.pic_candidateImg.ImageRotate = 0!
-        Me.pic_candidateImg.Location = New System.Drawing.Point(125, 159)
-        Me.pic_candidateImg.Name = "pic_candidateImg"
-        Me.pic_candidateImg.Size = New System.Drawing.Size(175, 175)
-        Me.pic_candidateImg.TabIndex = 86
-        Me.pic_candidateImg.TabStop = False
-        '
         'Guna2ShadowPanel1
         '
         Me.Guna2ShadowPanel1.BackColor = System.Drawing.Color.Transparent
@@ -270,31 +287,14 @@ Partial Class Form_ManageCandidate
         Me.Guna2ShadowPanel1.Size = New System.Drawing.Size(175, 175)
         Me.Guna2ShadowPanel1.TabIndex = 87
         '
-        'pic_close
+        'pic_candidateImg
         '
-        Me.pic_close.BackColor = System.Drawing.Color.Transparent
-        Me.pic_close.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
-        Me.pic_close.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.pic_close.FillColor = System.Drawing.Color.Transparent
-        Me.pic_close.Image = CType(resources.GetObject("pic_close.Image"), System.Drawing.Image)
-        Me.pic_close.ImageRotate = 0!
-        Me.pic_close.Location = New System.Drawing.Point(874, 13)
-        Me.pic_close.Name = "pic_close"
-        Me.pic_close.Size = New System.Drawing.Size(23, 24)
-        Me.pic_close.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
-        Me.pic_close.TabIndex = 89
-        Me.pic_close.TabStop = False
-        Me.pic_close.UseTransparentBackground = True
-        '
-        'Guna2HtmlLabel5
-        '
-        Me.Guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel5.Font = New System.Drawing.Font("Poppins SemiBold", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Guna2HtmlLabel5.Location = New System.Drawing.Point(12, 12)
-        Me.Guna2HtmlLabel5.Name = "Guna2HtmlLabel5"
-        Me.Guna2HtmlLabel5.Size = New System.Drawing.Size(141, 25)
-        Me.Guna2HtmlLabel5.TabIndex = 88
-        Me.Guna2HtmlLabel5.Text = "Manage Candidates"
+        Me.pic_candidateImg.ImageRotate = 0!
+        Me.pic_candidateImg.Location = New System.Drawing.Point(125, 159)
+        Me.pic_candidateImg.Name = "pic_candidateImg"
+        Me.pic_candidateImg.Size = New System.Drawing.Size(175, 175)
+        Me.pic_candidateImg.TabIndex = 86
+        Me.pic_candidateImg.TabStop = False
         '
         'Form_ManageCandidate
         '
@@ -326,28 +326,29 @@ Partial Class Form_ManageCandidate
         Me.Name = "Form_ManageCandidate"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Form_ManageCandidate"
-        CType(Me.pic_candidateImg, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.pic_close, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.pic_candidateImg, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
-    Friend WithEvents Guna2HtmlLabel4 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2HtmlLabel3 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2HtmlLabel2 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents txt_name As Guna.UI2.WinForms.Guna2TextBox
-    Friend WithEvents Guna2ShadowPanel2 As Guna.UI2.WinForms.Guna2ShadowPanel
-    Friend WithEvents Guna2HtmlLabel1 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents cmb_course As Guna.UI2.WinForms.Guna2ComboBox
-    Friend WithEvents Guna2ShadowPanel5 As Guna.UI2.WinForms.Guna2ShadowPanel
-    Friend WithEvents cmb_year As Guna.UI2.WinForms.Guna2ComboBox
-    Friend WithEvents Guna2ShadowPanel3 As Guna.UI2.WinForms.Guna2ShadowPanel
-    Friend WithEvents cmb_position As Guna.UI2.WinForms.Guna2ComboBox
-    Friend WithEvents Guna2ShadowPanel4 As Guna.UI2.WinForms.Guna2ShadowPanel
-    Friend WithEvents btn_register As Guna.UI2.WinForms.Guna2Button
-    Friend WithEvents Guna2ShadowPanel6 As Guna.UI2.WinForms.Guna2ShadowPanel
-    Friend WithEvents pic_candidateImg As Guna.UI2.WinForms.Guna2PictureBox
-    Friend WithEvents Guna2ShadowPanel1 As Guna.UI2.WinForms.Guna2ShadowPanel
-    Friend WithEvents pic_close As Guna.UI2.WinForms.Guna2PictureBox
+
     Friend WithEvents Guna2HtmlLabel5 As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents pic_close As Guna.UI2.WinForms.Guna2PictureBox
+    Friend WithEvents Guna2HtmlLabel2 As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents Guna2HtmlLabel3 As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents Guna2HtmlLabel4 As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents Guna2ShadowPanel2 As Guna.UI2.WinForms.Guna2ShadowPanel
+    Friend WithEvents txt_name As Guna.UI2.WinForms.Guna2TextBox
+    Friend WithEvents Guna2HtmlLabel1 As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents Guna2ShadowPanel5 As Guna.UI2.WinForms.Guna2ShadowPanel
+    Friend WithEvents cmb_course As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents Guna2ShadowPanel3 As Guna.UI2.WinForms.Guna2ShadowPanel
+    Friend WithEvents cmb_year As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents Guna2ShadowPanel4 As Guna.UI2.WinForms.Guna2ShadowPanel
+    Friend WithEvents cmb_position As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents Guna2ShadowPanel6 As Guna.UI2.WinForms.Guna2ShadowPanel
+    Friend WithEvents btn_register As Guna.UI2.WinForms.Guna2Button
+    Friend WithEvents Guna2ShadowPanel1 As Guna.UI2.WinForms.Guna2ShadowPanel
+    Friend WithEvents pic_candidateImg As Guna.UI2.WinForms.Guna2PictureBox
 End Class

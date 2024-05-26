@@ -8,10 +8,6 @@ Public Class form_manageUsers
     Private WithEvents FadeInTimer As New Timer()
     Private WithEvents FadeOutTimer As New Timer()
 
-    ' Specify the full paths to your images
-    Private hoverImagePath As String = "C:\Users\Ferg\Desktop\ICS  Student Voting System\remove.png"
-    Private originalImagePath As String = "C:\Users\Ferg\Desktop\ICS ICONS\remove.png"
-
     Private originalSize As Size ' Store the original size of the button
 
 
@@ -41,17 +37,6 @@ Public Class form_manageUsers
     Private Sub pic_close_Click(sender As Object, e As EventArgs) Handles pic_close.Click
         ' Start the timer to fade out the form when closing
         FadeOutTimer.Start()
-    End Sub
-
-
-    Private Sub pic_close_MouseEnter(sender As Object, e As EventArgs) Handles pic_close.MouseEnter
-        ' Change the appearance or perform actions when the mouse enters
-        pic_close.Image = Image.FromFile(hoverImagePath)
-    End Sub
-
-    Private Sub pic_close_MouseLeave(sender As Object, e As EventArgs) Handles pic_close.MouseLeave
-        ' Change the appearance or perform actions when the mouse leaves
-        pic_close.Image = Image.FromFile(originalImagePath)
     End Sub
 
     Private Sub FadeOutTimer_Tick(sender As Object, e As EventArgs) Handles FadeOutTimer.Tick
