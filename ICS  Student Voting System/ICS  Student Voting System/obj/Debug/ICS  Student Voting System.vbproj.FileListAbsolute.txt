@@ -154,6 +154,7 @@ C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Vo
 C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\Interop.WMPLib.dll
 C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.vbproj.ResolveComReference.cache
 C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.Form2.resources
+C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.form_adminMain.resources
 C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.Form_ManageCandidate.resources
 C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.form_manageUsers.resources
 C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS__Student_Voting_System.Form1.resources
@@ -168,5 +169,3 @@ C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Vo
 C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.exe
 C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.xml
 C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\obj\Debug\ICS  Student Voting System.pdb
-C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\BCrypt.Net-Next.dll
-C:\Ferg\Empty_Folder\ICS_VotingSystem\ICS  Student Voting System\ICS  Student Voting System\bin\Debug\BCrypt.Net-Next.xml

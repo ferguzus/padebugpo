@@ -11,7 +11,7 @@ Module DatabaseConnection
     Public Sub dbconn()
         Try
             If conn.State = ConnectionState.Closed Then
-                conn.ConnectionString = "server=localhost;user=root;password=2474;database=cdm-internship-database"
+                conn.ConnectionString = "server=localhost;user=root;database=election_database"
                 conn.Open()
             End If
         Catch ex As Exception
